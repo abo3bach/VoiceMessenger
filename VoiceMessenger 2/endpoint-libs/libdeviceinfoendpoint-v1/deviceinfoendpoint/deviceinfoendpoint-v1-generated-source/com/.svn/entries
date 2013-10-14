@@ -1,0 +1,35 @@
+10
+
+dir
+0
+https://vtnetapps.googlecode.com/svn/trunk/assignments/amre_kebaish/VoiceMessenger/endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source/com
+https://vtnetapps.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13dd798f-c9a9-0d3a-1410-a4e436c6fec4
+
+appspot
+dir
+
+
+
+add
+

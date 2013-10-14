@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://vtnetapps.googlecode.com/svn/trunk/assignments/amre_kebaish/VoiceMessenger/endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/dependencies
+https://vtnetapps.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13dd798f-c9a9-0d3a-1410-a4e436c6fec4
+
+APACHE-LICENSE.txt
+file
+
+
+
+add
+
+BSD-LICENSE.txt
+file
+
+
+
+add
+
+CDDL-LICENSE.txt
+file
+
+
+
+add
+
+css
+dir
+
+
+
+add
+
+dependencies.html
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+xpp3_LICENSE.txt
+file
+
+
+
+add
+

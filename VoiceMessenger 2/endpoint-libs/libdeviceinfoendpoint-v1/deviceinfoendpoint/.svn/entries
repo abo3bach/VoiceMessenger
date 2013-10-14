@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://vtnetapps.googlecode.com/svn/trunk/assignments/amre_kebaish/VoiceMessenger/endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint
+https://vtnetapps.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13dd798f-c9a9-0d3a-1410-a4e436c6fec4
+
+LICENSE.txt
+file
+
+
+
+add
+
+classpath-include
+file
+
+
+
+add
+
+dependencies
+dir
+
+
+
+add
+
+descriptor.json
+file
+
+
+
+add
+
+deviceinfoendpoint-v1-generated-source
+dir
+
+
+
+add
+
+libs
+dir
+
+
+
+add
+
+libs-sources
+dir
+
+
+
+add
+
+myapp-api-deviceinfoendpoint-v1-rev20121009233738-1.8.0-beta-sources.jar
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+proguard-google-api-client.txt
+file
+
+
+
+add
+
+readme.html
+file
+
+
+
+add
+

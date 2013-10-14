@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://vtnetapps.googlecode.com/svn/trunk/assignments/amre_kebaish/VoiceMessenger/src/com/Keb3mr/voicemessenger
+https://vtnetapps.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13dd798f-c9a9-0d3a-1410-a4e436c6fec4
+
+DownloadTask.java
+file
+
+
+
+add
+
+HttpCallback.java
+file
+
+
+
+add
+
+HttpCallback2.java
+file
+
+
+
+add
+
+MyProperties.java
+file
+
+
+
+add
+
+PlayActivity.java
+file
+
+
+
+add
+
+RecieveActivity.java
+file
+
+
+
+add
+
+RecordActivity.java
+file
+
+
+
+add
+
+UploadTask.java
+file
+
+
+
+add
+
+VoiceMessenger.java
+file
+
+
+
+add
+
